@@ -2,3 +2,5 @@ requests
 pandas
 sqlalchemy
 psycopg
+pyarrow
+schedule
